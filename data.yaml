@@ -1,0 +1,12 @@
+names:
+- formulas-
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: formula-detection-ohttb
+  url: https://universe.roboflow.com/devyansh-pdly4/formula-detection-ohttb/dataset/6
+  version: 6
+  workspace: devyansh-pdly4
+test: C:\Users\bhatt\Machine Learning\Internship_Alstom\Formula-Detection-6\test\images
+train: C:\Users\bhatt\Machine Learning\Internship_Alstom\Formula-Detection-6\train\images
+val: C:\Users\bhatt\Machine Learning\Internship_Alstom\Formula-Detection-6\valid\images
