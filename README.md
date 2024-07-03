@@ -1,6 +1,7 @@
 Mathematical Formula Detection
 
 YOLO (You Only Look Once) is a popular object detection algorithm known for its efficiency and accuracy in real-time object detection tasks. YOLOv8, an iteration of this model, incorporates improvements in architecture and training techniques to enhance its performance.
+The dataset to the following model is as follows: https://onedrive.live.com/?authkey=%21AA%2DmsgjOjiLJdxk&id=8911EB350F80CAF8%214672&cid=8911EB350F80CAF8 
 
 Object Detection for Mathematical Formulas:
 Object detection involves identifying and localizing objects of interest within an image or document. In this context, the objective is to train YOLOv8 to recognize and extract mathematical formulas. This task typically involves:
